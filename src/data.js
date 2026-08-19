@@ -54,138 +54,49 @@ export const PROJECTS = [
   {
     title: 'Nova Finance Dashboard',
     category: 'Web',
-    gradient: 'from-indigo-500 via-violet-500 to-fuchsia-500',
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop',
   },
   {
     title: 'Nordic Coffee Roasters',
     category: 'Design',
-    gradient: 'from-amber-500 via-orange-500 to-rose-500',
+    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop',
   },
   {
     title: 'FitTrack Fitness App',
     category: 'Apps',
-    gradient: 'from-emerald-500 via-teal-500 to-cyan-500',
+    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop',
   },
   {
     title: 'Launch Ad Campaign',
     category: 'Marketing',
-    gradient: 'from-sky-500 via-blue-600 to-indigo-700',
+    image: 'https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&h=400&fit=crop',
   },
   {
     title: 'Product Launch Film',
     category: 'Video',
-    gradient: 'from-rose-500 via-pink-500 to-purple-600',
+    image: 'https://images.unsplash.com/photo-1492619267744-4bcb6f45f30c?w=600&h=400&fit=crop',
   },
   {
     title: 'E-Commerce Platform',
     category: 'Web',
-    gradient: 'from-violet-500 via-purple-600 to-indigo-800',
+    image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop',
   },
   {
     title: 'Minimal Brand Identity',
     category: 'Design',
-    gradient: 'from-slate-500 via-gray-600 to-slate-800',
+    image: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&h=400&fit=crop',
   },
   {
     title: 'Booking Mobile App',
     category: 'Apps',
-    gradient: 'from-cyan-500 via-sky-600 to-blue-700',
+    image: 'https://images.unsplash.com/photo-1556656793-08538906a9f8?w=600&h=400&fit=crop',
   },
   {
     title: 'Growth & SEO Engine',
     category: 'Marketing',
-    gradient: 'from-lime-500 via-green-600 to-emerald-700',
+    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop',
   },
 ]
-
-export const PROCESS_STEPS = [
-  {
-    step: '01',
-    title: 'Discover',
-    description:
-      'We dig into your goals, audience, and market to map a strategy nobody else will give you.',
-  },
-  {
-    step: '02',
-    title: 'Design',
-    description:
-      'Moodboards become wireframes, then polished, on-brand visuals you actually love.',
-  },
-  {
-    step: '03',
-    title: 'Develop',
-    description:
-      'Clean code, rigorous testing, and obsessive detail — shipped on time, built to scale.',
-  },
-  {
-    step: '04',
-    title: 'Deliver',
-    description:
-      'Launch day is just the start. We measure, optimize, and grow your results together.',
-  },
-]
-
-export const STATS = [
-  { value: 150, suffix: '+', label: 'Projects Delivered' },
-  { value: 50, suffix: '+', label: 'Happy Clients' },
-  { value: 5, suffix: '+', label: 'Years Experience' },
-  { value: 12, suffix: '', label: 'Industry Awards' },
-]
-
-export const TESTIMONIALS = [
-  {
-    quote:
-      'Pixel Forge Studio rebuilt our platform from the ground up. Conversions jumped 3x in the first quarter. They are the partner we’d trust with anything.',
-    name: 'Maya Kowalski',
-    role: 'CEO, Nova Finance',
-    initials: 'MK',
-    gradient: 'from-indigo-500 to-violet-600',
-  },
-  {
-    quote:
-      'The brand identity they created is the best investment we’ve made. Our DMs, sales, and store traffic have never been healthier.',
-    name: 'Daniel Reyes',
-    role: 'Founder, Nordic Coffee',
-    initials: 'DR',
-    gradient: 'from-amber-500 to-rose-500',
-  },
-  {
-    quote:
-      'From launch film to the App Store, the whole process felt effortless on our side. Detail-oriented, fast, and genuinely creative.',
-    name: 'Aisha Bennett',
-    role: 'Product Lead, FitTrack',
-    initials: 'AB',
-    gradient: 'from-emerald-500 to-cyan-500',
-  },
-]
-
-export const TEAM = [
-  {
-    name: 'Jonas Hale',
-    role: 'Founder & Creative Director',
-    initials: 'JH',
-    gradient: 'from-violet-500 to-fuchsia-500',
-  },
-  {
-    name: 'Sofia Marchetti',
-    role: 'Head of Design',
-    initials: 'SM',
-    gradient: 'from-sky-500 to-indigo-600',
-  },
-  {
-    name: 'Liam Okafor',
-    role: 'Lead Engineer',
-    initials: 'LO',
-    gradient: 'from-emerald-500 to-teal-600',
-  },
-  {
-    name: 'Priya Nair',
-    role: 'Marketing Strategist',
-    initials: 'PN',
-    gradient: 'from-rose-500 to-pink-600',
-  },
-]
-
 export const PRICING = [
   {
     name: 'Basic',
