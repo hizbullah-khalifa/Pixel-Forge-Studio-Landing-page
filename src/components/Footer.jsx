@@ -118,7 +118,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-8 text-sm sm:flex-row">
-          <p>© {new Date().getFullYear()} Pixel Forge Studio. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Pixel Forge Studio. All rights reserved. By Hizbullah Khalifa</p>
           <div className="flex gap-6">
             <a href="#" className="transition hover:text-brand-300">
               Privacy Policy
